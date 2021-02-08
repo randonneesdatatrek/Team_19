@@ -1,11 +1,11 @@
-# Projet Description
+# Description du projet
 ## **Dataset**
 
 Nombre d'employés selon le Système de classification des industries de l'Amérique du Nord (SCIAN), la province et la région économique, 5 dernières années.(Statistique Canada, 2021).
 
 [https://open.canada.ca/data/en/dataset/01754a88-4ea3-42dd-9683-99beb7556b9f](https://open.canada.ca/data/en/dataset/01754a88-4ea3-42dd-9683-99beb7556b9f)
 
-## **La description**
+## **Description**
 
 En tant que nouveaux diplômés qui entrent sur le marché du travail canadien pendant la pandémie, nous sommes curieux de savoir:
 
@@ -40,7 +40,7 @@ Ce projet est en cadre de [Défi des 100 jours de Ran.données](https://ivado.ca
 ## **Calendrier**
 Tâche|Date
 --|:--:
-Project Description |	21 janvier, 2021
+Description du projet |	21 janvier, 2021
 Traitement et manipulation de données	| 14 février, 2021
 Visualisation de données |	17 février, 2021
 Analyses statistique | 28 février, 2021
