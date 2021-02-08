@@ -1,11 +1,11 @@
 # Project Description
-**Dataset**
+##**Dataset**
 
 Number of employees by North American Industry Classification System (NAICS), province and economic region over last 5 years (Statistics Canada, 2021).
 
 [https://open.canada.ca/data/en/dataset/01754a88-4ea3-42dd-9683-99beb7556b9f](https://open.canada.ca/data/en/dataset/01754a88-4ea3-42dd-9683-99beb7556b9f)
 
-**Description**
+##**Description**
 
 As new graduates entering the Canadian job market during the pandemic, we three are curious about:
 
@@ -17,20 +17,20 @@ Our analysis may be based on two index keys, i.e. **NAICS code** and **Year**. O
 - Specific Field- IT, Healthcare or whatever interests us during our exploration. However, we might need specific datasets to supplement our analysis as per our needs. IT industry, for instance:
 - Specific Region and Regional Differences- Mega cities like Montreal, Ottawa and Toronto vs. rural areas
 
-**Team**
+##**Team**
 
-Yiding (she)
+**Yiding (she)
 
 - New graduate in Études françaises from Concordia
 - Engineering background.
 
-Chiway (he)
+**Chiway (he)
 
 - New graduate in Business Technology Management from Concordia University.
 - C# (introductory level)
 - Functional role in a web application development project.
 
-Haining (he)
+**Haining (he)
 
 - Graduate student from McGill.
 - Master's thesis focusing on how AI-based educational technologies impact the understanding of student agency from a philosophical perspective.
@@ -39,13 +39,13 @@ This project is a part of [100 Days of Data.Trek](https://ivado.ca/evenements/10
 
 ---
 # Projet Description
-**Dataset**
+##**Dataset**
 
 Nombre d'employés selon le Système de classification des industries de l'Amérique du Nord (SCIAN), la province et la région économique, 5 dernières années.(Statistique Canada, 2021).
 
 [https://open.canada.ca/data/en/dataset/01754a88-4ea3-42dd-9683-99beb7556b9f](https://open.canada.ca/data/en/dataset/01754a88-4ea3-42dd-9683-99beb7556b9f)
 
-**La description**
+##**La description**
 
 En tant que nouveaux diplômés qui entrent sur le marché du travail canadien pendant la pandémie, nous sommes curieux de savoir:
 
@@ -57,7 +57,7 @@ Notre analyse peut être basée sur deux clés d'index, **le code SCIAN** et **l
 - Domaine spécifique - TI, Santé ou tout ce qui nous intéresse au cours de notre exploration. Cependant, nous pourrions avoir besoin d'ensembles de données spécifiques pour compléter notre analyse selon nos besoins, par exemple, l'industrie informatique
 - Différences régionales et régionales spécifiques - Les mégapoles comme Montréal, Ottawa et Toronto par rapport aux régions rurales
 
-**Équipe**
+##**Équipe**
 
 Yiding (elle)
 
