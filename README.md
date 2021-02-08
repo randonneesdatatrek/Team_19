@@ -57,7 +57,7 @@ Notre analyse peut être basée sur deux clés d'index, **le code SCIAN** et **l
 - Domaine spécifique - TI, Santé ou tout ce qui nous intéresse au cours de notre exploration. Cependant, nous pourrions avoir besoin d'ensembles de données spécifiques pour compléter notre analyse selon nos besoins, par exemple, l'industrie informatique
 - Différences régionales et régionales spécifiques - Les mégapoles comme Montréal, Ottawa et Toronto par rapport aux régions rurales
 
-Équipe
+**Équipe**
 
 Yiding (elle)
 
