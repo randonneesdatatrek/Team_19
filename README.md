@@ -77,13 +77,13 @@ Haining (il)
 
 Ce projet est en cadre de [Défi des 100 jours de Ran.données](https://ivado.ca/evenements/100-jours-de-ran-donnees-2/) organisé par l'AÉBINUM et IVADO.
 
-##timeline
+## **timeline**
 milestone|deadline
 --|:--:
-Project Description	Jan. 21, 2021
-Data Waggling	Feb. 14, 2021
-Data Visualization	Feb. 17, 2021
-Statistics Analysis	Feb.28, 2021
-Predictive Model via Machine Learning	Mar. 27, 2021
-Report	Apr. 06, 2021
-Presentation	Apr. 12, 2021
+Project Description |	Jan. 21, 2021
+Data Waggling	| Feb. 14, 2021
+Data Visualization |	Feb. 17, 2021
+Statistics Analysis	| Feb.28, 2021
+Predictive Model via Machine Learning	| Mar. 27, 2021
+Report	| Apr. 06, 2021
+Presentation	| Apr. 12, 2021
