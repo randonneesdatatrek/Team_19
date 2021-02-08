@@ -35,7 +35,7 @@ Haining (he)
 - Graduate student from McGill.
 - Master's thesis focusing on how AI-based educational technologies impact the understanding of student agency from a philosophical perspective.
 
-This project is a part of 100 Days of Data.Trek organized by AÉBINUM and IVADO.
+This project is a part of [100 Days of Data.Trek](https://ivado.ca/evenements/100-jours-de-ran-donnees-2/) organized by AÉBINUM and IVADO. 
 
 ---
 # Projet Description
