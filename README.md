@@ -19,18 +19,18 @@ Our analysis may be based on two index keys, i.e. **NAICS code** and **Year**. O
 
 **Team**
 
-Ivan (she/her)
+Yiding (she)
 
 - New graduate in Études françaises from Concordia
 - Engineering background.
 
-Chiway (he/his)
+Chiway (he)
 
 - New graduate in Business Technology Management from Concordia University.
 - C# (introductory level)
 - Functional role in a web application development project.
 
-Haining (he/his)
+Haining (he)
 
 - Graduate student from McGill.
 - Master's thesis focusing on how AI-based educational technologies impact the understanding of student agency from a philosophical perspective.
