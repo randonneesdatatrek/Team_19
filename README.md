@@ -34,3 +34,46 @@ Haining (he)
 
 - Graduate student from McGill.
 - Master's thesis focusing on how AI-based educational technologies impact the understanding of student agency from a philosophical perspective.
+
+Ce projet est en cadre de [Défi des 100 jours de Ran.données](https://ivado.ca/evenements/100-jours-de-ran-donnees-2/) organisé par l'AÉBINUM et IVADO.
+
+---
+
+**Dataset**
+
+Nombre d'employés selon le Système de classification des industries de l'Amérique du Nord (SCIAN), la province et la région économique, 5 dernières années.(Statistique Canada, 2021).
+
+[https://open.canada.ca/data/en/dataset/01754a88-4ea3-42dd-9683-99beb7556b9f](https://open.canada.ca/data/en/dataset/01754a88-4ea3-42dd-9683-99beb7556b9f)
+
+**La description**
+
+En tant que nouveaux diplômés qui entrent sur le marché du travail canadien pendant la pandémie, nous sommes curieux de savoir:
+
+- Comment le marché du travail au Canada a-t-il évolué en manière de caractéristiques / modèles / tendances au cours des cinq dernières années? Comment mieux visualiser et présenter ces changements en employant des modèles possibles?
+- Si nous examinons et analysons ces modèles au cours de ces années, quelles pourraient être les forces possibles à l'origine des changements? Pourraient-elles être politique gouvernementale, technologie ou économie? (plus de recherches sont nécessaires pour des conclusions solides)
+
+Notre analyse peut être basée sur deux clés d'index, **le code SCIAN** et **les** **années.** Une fois que nous avons obtenu quelques informations générales sur les caractéristiques / modèles / tendances de la répartition des employés, nous pouvons passer à des sujets plus spécifiques qui nous intéressent le plus:
+
+- Domaine spécifique - TI, Santé ou tout ce qui nous intéresse au cours de notre exploration. Cependant, nous pourrions avoir besoin d'ensembles de données spécifiques pour compléter notre analyse selon nos besoins, par exemple, l'industrie informatique
+- Différences régionales et régionales spécifiques - Les mégapoles comme Montréal, Ottawa et Toronto par rapport aux régions rurales
+
+Équipe
+
+Yiding (elle)
+
+- Nouvelle diplômée en Études françaises de l'Université Concordia
+- Formation d'ingénierie
+
+Qiwei (Chiway) (il)
+
+- Nouveau diplômé en gestion de la technologie des affaires de l'Université Concordia.
+- C#(niveaux d'introduction)
+- Rôle fonctionnel dans un projet de développement d'application web
+
+Haining (il)
+
+- Étudiant diplômé de l'Université McGill
+- Thèse de maîtrise portant sur l'impact des technologies éducatives basées sur l'IA sur la compréhension de l'agence étudiante d'un point de vue philosophique
+
+Ce projet est en cadre de [Défi des 100 jours de Ran.données](https://ivado.ca/evenements/100-jours-de-ran-donnees-2/) organisé par l'AÉBINUM et IVADO.
+
