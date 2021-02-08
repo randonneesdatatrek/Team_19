@@ -1,5 +1,5 @@
 # Project Description
-## **Dataset**
+**Dataset**
 
 Number of employees by North American Industry Classification System (NAICS), province and economic region over last 5 years (Statistics Canada, 2021).
 
@@ -39,7 +39,7 @@ This project is a part of [100 Days of Data.Trek](https://ivado.ca/evenements/10
 
 ---
 # Projet Description
-## **Dataset**
+**Dataset**
 
 Nombre d'employés selon le Système de classification des industries de l'Amérique du Nord (SCIAN), la province et la région économique, 5 dernières années.(Statistique Canada, 2021).
 
