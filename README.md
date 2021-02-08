@@ -66,7 +66,7 @@ As new graduates entering the Canadian job market during the pandemic, we three 
 
 Our analysis may be based on two index keys, i.e. **NAICS code** and **Year**. Once we obtain the some general insights about the characteristics/ patterns/ trends of the employee distribution, we can move to more specific topics which interest us most such as:
 
-- Specific Field- IT, Healthcare or whatever interests us during our exploration. However, we might need specific datasets to supplement our analysis as per our needs. IT industry, for instance:
+- Specific Field- IT, Healthcare or whatever interests us during our exploration. However, we might need specific datasets to supplement our analysis as per our needs. For instance, IT industry.
 - Specific Region and Regional Differences- Mega cities like Montreal, Ottawa and Toronto vs. rural areas
 
 ## **Team**
