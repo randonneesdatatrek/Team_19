@@ -37,6 +37,17 @@ Our analysis may be based on two index keys, i.e. **NAICS code** and **Year**. O
 
 This project is a part of [100 Days of Data.Trek](https://ivado.ca/evenements/100-jours-de-ran-donnees-2/) organized by AÉBINUM and IVADO. 
 
+## **Timeline**
+milestone|deadline
+--|:--:
+Project Description |	Jan. 21, 2021
+Data Waggling	| Feb. 14, 2021
+Data Visualization |	Feb. 17, 2021
+Statistics Analysis	| Feb.28, 2021
+Predictive Model via Machine Learning	| Mar. 27, 2021
+Report	| Apr. 06, 2021
+Presentation	| Apr. 12, 2021
+
 ---
 # Projet Description
 ## **Dataset**
@@ -77,13 +88,13 @@ Notre analyse peut être basée sur deux clés d'index, **le code SCIAN** et **l
 
 Ce projet est en cadre de [Défi des 100 jours de Ran.données](https://ivado.ca/evenements/100-jours-de-ran-donnees-2/) organisé par l'AÉBINUM et IVADO.
 
-## **timeline**
-milestone|deadline
+## **Calendrier**
+Tâche|Date
 --|:--:
-Project Description |	Jan. 21, 2021
-Data Waggling	| Feb. 14, 2021
-Data Visualization |	Feb. 17, 2021
-Statistics Analysis	| Feb.28, 2021
-Predictive Model via Machine Learning	| Mar. 27, 2021
-Report	| Apr. 06, 2021
-Presentation	| Apr. 12, 2021
+Project Description |	21 janvier, 2021
+Traitement et manipulation de données	| 14 février, 2021
+Visualisation de données |	17 février, 2021
+Analyses statistique | 28 février, 2021
+Modèle prédictif en apprentissage machine	| 27 mars, 2021
+Rapport	| 06 avril, 2021
+Présentation	| 12 avril, 2021
