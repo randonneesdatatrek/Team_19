@@ -19,18 +19,18 @@ Our analysis may be based on two index keys, i.e. **NAICS code** and **Year**. O
 
 ## **Team**
 
-**Yiding (she)
+**Yiding (she)**
 
 - New graduate in Études françaises from Concordia
 - Engineering background.
 
-**Chiway (he)
+**Qiwei (Chiway) (he)**
 
 - New graduate in Business Technology Management from Concordia University.
 - C# (introductory level)
 - Functional role in a web application development project.
 
-**Haining (he)
+**Haining (he)**
 
 - Graduate student from McGill.
 - Master's thesis focusing on how AI-based educational technologies impact the understanding of student agency from a philosophical perspective.
@@ -59,18 +59,18 @@ Notre analyse peut être basée sur deux clés d'index, **le code SCIAN** et **l
 
 ## **Équipe**
 
-Yiding (elle)
+**Yiding (elle)**
 
 - Nouvelle diplômée en Études françaises de l'Université Concordia
 - Formation d'ingénierie
 
-Qiwei (Chiway) (il)
+**Qiwei (Chiway) (il)**
 
 - Nouveau diplômé en gestion de la technologie des affaires de l'Université Concordia.
 - C#(niveaux d'introduction)
 - Rôle fonctionnel dans un projet de développement d'application web
 
-Haining (il)
+**Haining (il)**
 
 - Étudiant diplômé de l'Université McGill
 - Thèse de maîtrise portant sur l'impact des technologies éducatives basées sur l'IA sur la compréhension de l'agence étudiante d'un point de vue philosophique
